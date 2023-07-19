@@ -1,0 +1,3 @@
+- What is differentiability 
+- How it arose and single variable intuition
+- Generalization to maps between Euclidean spaces
