@@ -11,5 +11,11 @@ I will state these sources as \
 *Abbreviation:* WiM\
 *Source*: Courant HRR, Courant R, Courant CI of MSR, Robbins H, Stewart I, Robbins P of MH. What Is Mathematics?: An Elementary Approach to Ideas and Methods. Oxford University Press, USA; 1996.
 
-# Personal
+*Abbreviation*: TA1 and TA2\
+*Sources*: Tao T. Analysis i: Third Edition. Springer; 2016.\
+Tao T. Analysis II: Third Edition. Springer; 2016.
 
+# Personal
+Teal Notebook 1\
+Teal Notebook 2\
+Teal Notebook 3
