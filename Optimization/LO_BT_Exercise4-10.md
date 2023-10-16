@@ -38,7 +38,7 @@ $$
 \end{equation*}
 $$
 
-Proof. ($\Leftarrow$) Suppose that $x^*$ and $p^*$ are optimal solutions to their respective optimization problems. We evaluate the Langrangian at the three above posited points:
+Proof. ($\Leftarrow$) Suppose that $x^{*}$ and $p^*$ are optimal solutions to their respective optimization problems. We evaluate the Langrangian at the three above posited points:
 $$
 L(x^*, p) = c^{\text{T}}x^* + p^{\text{T}}(b - Ax^*) = c^{\text{T}}x^* + p^{\text{T}}(b - b) = c^{\text{T}}x^* \quad \forall p,
 $$
